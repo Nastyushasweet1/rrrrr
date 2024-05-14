@@ -1,0 +1,3 @@
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\в классе\obj\Debug\в классе.csproj.AssemblyReference.cache
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\в классе\obj\Debug\в классе.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\в классе\obj\Debug\в классе.csproj.CoreCompileInputs.cache
