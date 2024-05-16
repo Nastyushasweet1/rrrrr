@@ -1,0 +1,8 @@
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\bin\Debug\класс1.exe.config
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\bin\Debug\класс1.exe
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\bin\Debug\класс1.pdb
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\obj\Debug\класс1.csproj.AssemblyReference.cache
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\obj\Debug\класс1.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\obj\Debug\класс1.csproj.CoreCompileInputs.cache
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\obj\Debug\класс1.exe
+D:\Users\1213-8\Documents\2-ИСП\Осн. пр\Момот\класс1\obj\Debug\класс1.pdb
